@@ -1,6 +1,6 @@
 AUTHOR = "Kristina and Cody Johnson"
 SITENAME = "Kristina and Cody's Reception"
-SITEURL = "https://reception.codyandkristina.life"
+THEME = "/home/cody/.local/src/pelican-themes/materialistic"
 
 PATH = "content"
 
